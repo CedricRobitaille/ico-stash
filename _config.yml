@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /ico-stash
+exclude: ['README.md']
